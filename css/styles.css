@@ -179,6 +179,7 @@ img {
     display: flex;
     flex-direction: column;
     position: relative;
+    height: 100%;
 
     padding-top: 80px;
     padding-left: 40px;
@@ -296,7 +297,7 @@ img {
 }
 
 .mobile-menu-second {
-    margin-top: 284px;
+    margin-top: auto;
 }
 
 .mobile-menu-media-list {
